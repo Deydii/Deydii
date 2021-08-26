@@ -14,7 +14,7 @@ I'm Audrey LOURI, a frontend developer, living near to Paris and I'm currently l
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/audrey-louri/" alt="linkedin\'s link" target="_blank">
+<a href="https://www.linkedin.com/in/audrey-louri/" alt="linkedin\'s link">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
