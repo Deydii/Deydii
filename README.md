@@ -7,7 +7,7 @@ I'm Audrey LOURI, a frontend developer, living near to Paris and I'm currently l
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/SASS-282C34?logo=SASS&logoColor=ff69b4" alt="Sass logo" title="Sass" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Sass-282C34?logo=SASS&logoColor=ff69b4" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=material-ui&logoColor=037ffe" alt="Material UI logo" title="Material UI" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=127AC9" alt="Wordpress logo" title="Wordpress" height="25" />&nbsp;
